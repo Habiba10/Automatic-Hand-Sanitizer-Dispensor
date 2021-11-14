@@ -1,7 +1,7 @@
 #include <Servo.h>
 const int servoPin=3;
-const int trigPin=4;
-const int echoPin=5;
+const int echoPin=4;
+const int trigPin=5;
 long duration;
 int distance;
 Servo servo;
